@@ -13,6 +13,6 @@ This Repo is your blueprint for leveraging AWS services like ECR, S3, DynamoDB, 
 **End-to-End DevSecOps Workflow:** Incorporate security scans, monitoring, and scalable infrastructure for a production-ready deployment.
 
 
-To make learning even easier, a detailed YouTube video accompanies this guide, walking you through each step visually. Whether you're a DevOps enthusiast or a seasoned cloud professional, this tutorial will help you bridge the gap between theory and practical implementation.
+
 
 
